@@ -1,0 +1,44 @@
+.sidebar {
+  float: right;
+  border: 20px solid blue;
+  margin-left: 5px;
+  background-color: orange;
+  padding-right: 50px;
+}
+
+.Ozzy {
+  float: left;
+  padding-left: 550px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.column {
+  width: 400px;
+  padding-top: 100px;
+  float: left;
+  margin-top: 10px;
+}
+
+h4 {
+  text-align: center;
+  padding-top: 300px;
+}
+
+body {
+  background-color: salmon;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
